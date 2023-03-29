@@ -9,3 +9,7 @@ puts decimal_numbers[0]
 
 booleans = [true, false, true, false]
 puts booleans[0]
+# Index positions refer to the positions of the value in the array.
+# Position 0 always refers to the first value in the array.
+# in the mgs_characters variable position position 0 would
+# Give the output "Snake"
