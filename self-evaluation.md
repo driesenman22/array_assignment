@@ -1,0 +1,3 @@
+I would Say I feel moderately confident with them. From what we have learned in this excercise I would say I feel pretty good. But I can tell arrays will get real complicated real fast.
+I need to just brush up on what we have learned but I would not say I need to learn anything at the moment.
+I would like to know examples of more complex arrays and their use in terms of a full webside or application. 
